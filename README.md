@@ -41,7 +41,7 @@
 
 | |  日時  | トピック | 講義資料 | 課題&ドリル | 授業用ファイル |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| 第1回 | 6月26日（月） | BadData, not BigData | [PPT](https://www.dropbox.com/scl/fi/661qahtw8104huixwtegx/II-1.pptx?rlkey=jmxsjxcngauxukid07qvm1pdk&dl=0) | [nbviewer]() |[excel](https://www.dropbox.com/scl/fi/fepqyqepu7fy3uvjuksyp/day1-dataset.zip?rlkey=9w2vf7tdcj9tvzb8htsac1ogo&dl=0)|
+| 第1回 | 4月15日（月） | BadData, not BigData | [PPT](https://www.dropbox.com/scl/fi/661qahtw8104huixwtegx/II-1.pptx?rlkey=jmxsjxcngauxukid07qvm1pdk&dl=0) | [nbviewer](https://nbviewer.org/github/shoji360/data-analytics-2024/blob/main/notebook/day-01.ipynb) |[zip download](https://shoji-lab.jp/day1-dataset.zip)|
 
 ## レポート課題
 * 本確定ではありません
@@ -50,7 +50,7 @@
 
 * 締め切り：最終回の１週間後24時
 * 提出形式：PDFファイル
-    * レポートのテンプレートは[コチラのURL](attach:https://shoji-lab.jp/da2_report.docx)にあるものをダウンロードして使用すること
+    * レポートのテンプレートは[コチラのURL](https://shoji-lab.jp/da2_report.docx)にあるものをダウンロードして使用すること
     * ファイル名は「学籍番号.pdf」とせよ）
 * 提出方法：学務情報システム経由
 
