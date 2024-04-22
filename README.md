@@ -1,4 +1,4 @@
-# データアナリティクスII-2023
+# データアナリティクスII-2024
 本ページは、「データアナリティクスII」（莊司担当パート）の資料置き場です。
 
 この内容は順次更新されます。
@@ -12,15 +12,14 @@
 ## 成績評価（莊司担当パート）
 莊司担当パートでは、本授業科目の約33％の成績を評価します（残り67％は金先生、大島先生パートで評価）。
 評価は以下の2つの観点から行います。
-* レポート課題(莊司担当パート100％)
-* 授業参加への積極性
+* レポート課題（莊司担当パート100％）
+* 授業参加への積極性（追加得点）
 	* 各回の提出物（出席扱い）
-	* 毎回の授業で出題するノックの進行状況（口頭で確認）、質問サポートDocへの書き込み
-
+	* ノックの進行状況、質問サポートDocへの書き込み
 
 ## 第1回のサポート情報
 * 教材、課題のダウンロードなど：
-  * [今見ているこのサイト](https://shoji-lab.jp/ds2024.html)
+  * [今見ているこのサイト](https://shoji-lab.jp/da2024.html)
 * グループ登録
   * [Google Forms](https://forms.gle/MHVVHXQ4jEHif8Mm8)
   * グループのどちらか、代表者が登録してください
@@ -41,7 +40,7 @@
 
 | |  日時  | トピック | 講義資料 | 課題&ドリル | 授業用ファイル |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| 第1回 | 4月15日（月） | BadData, not BigData | [PPT](https://www.dropbox.com/scl/fi/661qahtw8104huixwtegx/II-1.pptx?rlkey=jmxsjxcngauxukid07qvm1pdk&dl=0) | [nbviewer](https://nbviewer.org/github/shoji360/data-analytics-2024/blob/main/notebook/day-01.ipynb) |[zip download](https://shoji-lab.jp/day1-dataset.zip)|
+| 第1回 | 4月15日（月） | BadData, not BigData | [PPT](https://www.dropbox.com/scl/fi/661qahtw8104huixwtegx/II-1.pptx?rlkey=jmxsjxcngauxukid07qvm1pdk&dl=0) | [nbviewer](https://nbviewer.org/github/shoji360/data-analytics-2024/blob/main/notebook/day-01.ipynb) |<a href="https://shoji-lab.jp/day1-dataset.zip" download="day1-dataset.zip">zip download</a>|
 
 ## レポート課題
 * 本確定ではありません
@@ -55,7 +54,7 @@
 * 提出方法：学務情報システム経由
 
 ipynb形式のノートをダウンロードして使いたい場合は
-[右クリックで保存してください](https://shoji-lab.jp/Report.ipynb "download")
+[右クリックで保存](https://shoji-lab.jp/Report.ipynb "download")
 
 
 
